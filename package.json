@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-tailwindcss",
+  "version": "1.0.0",
+  "description": "Nuxt.js example with TailwindCSS module (JIT activated).",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "5.3.0",
+    "nuxt": "2.15.8",
+    "postcss": "^8.4.4"
+  },
+  "keywords": ["tailwindcss", "nuxt", "nuxt-module"]
+}
